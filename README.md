@@ -3,7 +3,7 @@
 
 a fork of StartBootstrap/startbootstrap-freelancer
 
-[![Freelancer Preview]
+[![Freelancer Preview](https://bcobob.github.io/beko/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-freelancer/)**
 
